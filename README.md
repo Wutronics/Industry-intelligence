@@ -15,5 +15,6 @@
 | 周期 | 子行业 | 报告 |
 | --- | --- | --- |
 | 2026-W46 | 工业机器人与协作机器人 | [首期周报](reports/2026-W46-industrial-robotics.md) |
+| 2026-W47 | 新型储能 | [本周报告](reports/2026-W47-energy-storage.md) |
 
 完整目录见 [reports/INDEX.md](reports/INDEX.md)，预测与复盘见 [forecasts/FORECAST_LEDGER.md](forecasts/FORECAST_LEDGER.md)。
